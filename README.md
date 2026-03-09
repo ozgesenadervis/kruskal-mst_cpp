@@ -29,6 +29,7 @@ C++
 
 ## Project Visualization
 ![Minimum Spanning Tree](kruskal-mst-output.png)
+![Minimum Spanning Tree](kruskal-mst-visualization.png)
 
 # Author
 Özge Sena Derviş
