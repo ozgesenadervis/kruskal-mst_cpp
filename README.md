@@ -27,6 +27,9 @@ The Disjoint Set Union structure is used to keep track of connected components a
 # Programming Language
 C++
 
+## Project Visualization
+![Minimum Spanning Tree](kruskal-mst-output)
+
 # Author
 Özge Sena Derviş
 Computer Engineering Student
